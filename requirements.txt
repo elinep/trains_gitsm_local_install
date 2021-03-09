@@ -1,0 +1,6 @@
+# https://github.com/gdamjan/hello-world-python-package.git
+# cool-lib
+-e submodule_package_demo
+git+https://github.com/bast/somepackage.git
+
+clearml
